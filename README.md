@@ -1,6 +1,6 @@
 # SOLSTICE-
 SOLSTICE is an accessible tool for evaluating integrated domestic energy systems combining PV(T) collectors, heat pumps, batteries, and seasonal heat storage. Using hourly weather and demand data, it simulates energy flows, highlights system synergies, and supports early-stage design optimization before detailed modelling.
 
-Use excel file to run the model.
+Use 'SOLSTICE_V2' excel file to run the model.
 
-Use Guidelines to implement the model.
+Use 'SOLSTICE_V2_User_Guideline' to implement the model.
