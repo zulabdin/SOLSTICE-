@@ -4,3 +4,24 @@ SOLSTICE is an accessible tool for evaluating integrated domestic energy systems
 Unzip the SOLSTICE_Online folder and open the SOLSTICE_V2 Excel file to run the model.
 
 Use the SOLSTICE_V2_User_Guideline as a reference for implementing the model.
+
+
+Picture																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+<img width="1841" height="802" alt="image" src="https://github.com/user-attachments/assets/60af01c6-40f3-4d3b-ae43-bdf7b87e0f26" />
