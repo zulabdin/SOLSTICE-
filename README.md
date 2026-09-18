@@ -26,9 +26,15 @@ To run the model:
 <img width="1841" height="802" alt="image" src="https://github.com/user-attachments/assets/60af01c6-40f3-4d3b-ae43-bdf7b87e0f26" />
 
 # Citing
-If you use this tool or any part of it in your research, please refer to the following publication:
 
-F. Lems, Z. Ul-Abdin, O. Isabella, R. Santbergen, Introducing SOLSTICE: A Modelling Tool for Assessing PV(T) Systems with Heat Pump and Seasonal Storage in Diverse Climates, manuscript submitted to Solar RRL, 2026.
+If you use this tool or any part of it in your research, please refer to the following publications:
+
+F. Lems, Z. Ul-Abdin, O. Isabella, R. Santbergen, *Introducing SOLSTICE: A Modelling Tool for Assessing PV(T) Systems with Heat Pump and Seasonal Storage in Diverse Climates*, manuscript in preparation, 2026.
+
+This work is also presented at **EUPVSEC 2026** under the title:
+
+Z. Ul-Abdin, F. Lems, F. Pourbarghisofiyani, O. Isabella, R. Santbergen, *Photovoltaic Power-to-heat Conversion with Seasonal Underground Thermal Energy Storage for Winter Heating: A Modelling Study*, *41st European Photovoltaic Solar Energy Conference*, 2026.
+
 
 # Further reading
 The tool is based on the following MSc. thesis:
