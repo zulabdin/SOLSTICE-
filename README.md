@@ -31,7 +31,7 @@ If you use this tool or any part of it in your research, please refer to the fol
 
 F. Lems, Z. Ul-Abdin, O. Isabella, R. Santbergen, *Introducing SOLSTICE: A Modelling Tool for Assessing PV(T) Systems with Heat Pump and Seasonal Storage in Diverse Climates*, manuscript in preparation, 2026.
 
-This work is also presented at **EUPVSEC 2026** under the title:
+This work was also presented at **EUPVSEC 2026**:
 
 Z. Ul-Abdin, F. Lems, F. Pourbarghisofiyani, O. Isabella, R. Santbergen, *Photovoltaic Power-to-heat Conversion with Seasonal Underground Thermal Energy Storage for Winter Heating: A Modelling Study*, *41st European Photovoltaic Solar Energy Conference*, 2026.
 
